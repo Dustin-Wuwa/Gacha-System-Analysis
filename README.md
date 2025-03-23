@@ -1,4 +1,3 @@
-# Gacha-System-Analysis
 
 This repository houses the Jupyter notebook and HTML file which goes through my comprehensive statistical analysis of Wuthering Waves' gacha system. 
 
